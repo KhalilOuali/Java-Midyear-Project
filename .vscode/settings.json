@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.31.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.base.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.controls.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.media.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.swing.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx.web.jar",
+        "c:\\Users\\drago\\Documents\\Java\\javafx-sdk-19\\lib\\javafx-swt.jar"
+	],
+	"[java]": {
+		"editor.insertSpaces": false
+	}
+}
