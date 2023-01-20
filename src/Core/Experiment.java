@@ -105,7 +105,7 @@ public class Experiment {
 
 	public boolean submitResearcherRequest(String specialty, String details) throws SQLException {
 		String query = """
-					SELECT * FROM fields WHERE field_designation = ?;
+					SELECT * FROM field WHERE field_designation = ?;
 				""";
 
 		ResultSet result = DBManager.executeQuery(query, specialty);
