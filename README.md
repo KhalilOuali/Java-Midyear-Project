@@ -1,4 +1,4 @@
-# Java Midyear Project: Research Center Management System
+# Java Midyear Project:<br>Research Center Management System
 ### With SQL database linkage and JavaFX GUI.
 
 <hr>
